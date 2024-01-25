@@ -1,0 +1,13 @@
+
+public class PRACTICE1 {
+
+	public static void main(String[] args) {
+	    System.out.println("HELLO WORLD, THIS IS JAVA, HOW RU KOVIDH?");
+	    System.out.println("HELLO WORLD, THIS IS JAVA, HOW RU KOVIDH?");
+	    System.out.println("HELLO WORLD, THIS IS JAVA, HOW RU KOVIDH?");
+
+
+
+	}
+
+}
